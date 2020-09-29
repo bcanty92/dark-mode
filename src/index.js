@@ -24,8 +24,13 @@ const App = () => {
         Navbar / >
         <
         Charts coinData = { coinData }
+<<<<<<< HEAD
         /> < /
         div >
+=======
+        /> <
+        /div>
+>>>>>>> 23a275aa1bf36561c2f426050a91b1df5012fe48
     );
 };
 
